@@ -1,5 +1,4 @@
 # ark-farmer
-
 A simple AHK script for unsupervised farming on ARK: Survival Ascended.
 
 This script allows you to leave a character on a farming dino to passively farm. 
@@ -53,3 +52,7 @@ This script allows you to leave a character on a farming dino to passively farm.
     Metal | Stone, Wood, Obsidian, Berries |
     Stone | Wood, Thatch, Crystal | 
     Wood  | Berries, Fiber |  
+
+### DISCLAIMER
+> 📝 The developer of this bot is not professionally affiliated with ARK: Survival Ascended or Studio Wildcard. This project is not endoursed by Studio Wildcard. They probably don't like it.
+
