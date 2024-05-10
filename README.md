@@ -2,12 +2,15 @@
 
 A simple AHK script for unsupervised farming on ARK: Survival Ascended.
 
-This script allows you to leave a character on a farming dino to passively farm, forevermore. 
+This script allows you to leave a character on a farming dino to passively farm. 
 - `F2` will start consumption script that triggers food and drink hotbar keys at a set interval (modify consumption interval and hotbar keys in `settings.ini`)
 - `F5` will open a dropdown menu that allows you to choose which resource you're farming - stone, metal, or wood. After you select the resource, the script will begin left clicking for a set amount of time, then it will automatically drop all resources aside from the one you've selected (with some exceptions). It will also take breaks to regenerate stamina after each drop. You can define the drop interval in `settings.ini`. 
 - `F6` stops BOTH the farming script AND the food/drink consumption scripts, but it doesn't exit the main script.
 - `F8` exits the main script.
-
+----
+### 💡TIPS
+> - Put your farming dino (and rider) somewhere with air conditioners. If you have access to Tek, you can even put them on a dedicated farming teleporter surrounded by ACs.
+> - As of right now, you need to refill their food / water whenever it runs out. Having more fortitude, higher food/water stats, and higher food/water value custom drinks will help with this. You can also increase the consumption interval in `settings.ini` to reduce how frequently the script consumes food/drink, but monitor this carefully as you're changing it, you don't want your character to pass out and die. 
 
 ## Getting Started
 ### Installing Autohotkey 
