@@ -54,5 +54,5 @@ This script allows you to leave a character on a farming dino to passively farm.
     Wood  | Berries, Fiber |  
 
 ### DISCLAIMER
-> 📝 The developer of this bot is not professionally affiliated with ARK: Survival Ascended or Studio Wildcard. This project is not endoursed by Studio Wildcard. They probably don't like it.
+> 📝 The developer of this bot is not professionally affiliated with ARK: Survival Ascended or Studio Wildcard. This project is not endorsed by Studio Wildcard. They probably don't like it.
 
